@@ -1,0 +1,10 @@
+{
+    "require": {
+        "usmanhalalit/pixie": "^2.0"
+    },
+    "autoload": {
+        "files" : [
+            "helpers/helper.php"
+        ]
+    }
+}
